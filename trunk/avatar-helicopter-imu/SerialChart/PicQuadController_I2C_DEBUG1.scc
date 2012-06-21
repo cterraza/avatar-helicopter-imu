@@ -1,0 +1,47 @@
+[_setup_]
+port=\\.\COM3
+baudrate=115200
+
+width=500
+height=401
+background_color = white
+
+grid_h_origin = 200
+grid_h_step = 10
+grid_h_color = #EEE
+grid_h_origin_color = #CCC
+
+grid_v_origin = 0
+grid_v_step = 10
+grid_v_color = #EEE
+grid_v_origin_color = transparent
+
+
+[_default_]
+min=-1
+max=1
+color=transparent
+
+[interval]
+min=-2000
+max=2000
+
+[AccX]
+color=green
+
+[AccY]
+color=red
+
+[AccZ]
+color=blue
+
+[GyroX]
+min=-0.5
+max=0.5
+color =yellow
+
+[GyroY]
+color= black
+
+[GyroZ]
+color = blue
