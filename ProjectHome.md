@@ -1,0 +1,1 @@
+PIC33 based control board for a Quadcopter using 3.7 Lipo Battery, Bluetooth Serial module, ITG3200 ADXL325 sensors and using PCB based Airframe
